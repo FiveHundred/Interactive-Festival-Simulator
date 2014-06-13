@@ -44,6 +44,7 @@ Icon
 
 natives_backup/
 unfinished_files/
+bin/
 
 .metadata/
 .settings/
